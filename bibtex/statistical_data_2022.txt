@@ -1,0 +1,8 @@
+@inproceedings{lee2022statistical,
+  title={A Statistical Manifold Framework for Point Cloud Data},
+  author={Lee, Yonghyeon and Kim, Seungyeon and Choi, Jinwon and Park, Frank},
+  booktitle={International Conference on Machine Learning},
+  pages={12378--12402},
+  year={2022},
+  organization={PMLR}
+}

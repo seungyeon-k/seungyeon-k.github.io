@@ -1,0 +1,10 @@
+@article{kim2021encoding,
+  title={On the encoding capacity of human motor adaptation},
+  author={Kim, Seungyeon and Kwon, Jaewoon and Kim, Jin-Min and Park, Frank Chongwoo and Yeo, Sang-Hoon},
+  journal={Journal of Neurophysiology},
+  volume={126},
+  number={1},
+  pages={123--139},
+  year={2021},
+  publisher={American Physiological Society Rockville, MD}
+}

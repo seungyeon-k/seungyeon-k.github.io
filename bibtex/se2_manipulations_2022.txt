@@ -1,0 +1,5 @@
+@inproceedings{kimse,
+  title={SE (2)-Equivariant Pushing Dynamics Models for Tabletop Object Manipulations},
+  author={Kim, Seungyeon and Lim, Byeongdo and Lee, Yonghyeon and Park, Frank C},
+  booktitle={6th Annual Conference on Robot Learning}
+}
