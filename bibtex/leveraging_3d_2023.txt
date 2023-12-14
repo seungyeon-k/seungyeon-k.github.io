@@ -1,0 +1,8 @@
+@inproceedings{kim2023leveraging,
+  title={Leveraging 3D Reconstruction for Mechanical Search on Cluttered Shelves},
+  author={Kim, Seungyeon and Kim, Young Hun and Lee, Yonghyeon and Park, Frank C},
+  booktitle={Conference on Robot Learning},
+  pages={822--848},
+  year={2023},
+  organization={PMLR}
+}

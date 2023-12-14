@@ -1,0 +1,8 @@
+@inproceedings{lee2023equivariant,
+  title={Equivariant Motion Manifold Primitives},
+  author={Lee, Byeongho and Lee, Yonghyeon and Kim, Seungyeon and Son, MinJun and Park, Frank C},
+  booktitle={Conference on Robot Learning},
+  pages={1199--1221},
+  year={2023},
+  organization={PMLR}
+}
