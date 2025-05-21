@@ -1,0 +1,6 @@
+@article{lee2024motion,
+  title={Motion Manifold Flow Primitives for Language-Guided Trajectory Generation},
+  author={Lee, Yonghyeon and Lee, Byeongho and Kim, Seungyeon and Park, Frank C},
+  journal={arXiv preprint arXiv:2407.19681},
+  year={2024}
+}
