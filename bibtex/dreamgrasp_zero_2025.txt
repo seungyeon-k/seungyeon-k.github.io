@@ -1,0 +1,6 @@
+@article{kim2025dreamgrasp,
+  title={DreamGrasp: Zero-Shot 3D Multi-Object Reconstruction from Partial-View Images for Robotic Manipulation},
+  author={Kim, Young Hun and Kim, Seungyeon and Lee, Yonghyeon and Park, Frank Chongwoo},
+  journal={arXiv preprint arXiv:2507.05627},
+  year={2025}
+}
