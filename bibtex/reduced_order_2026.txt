@@ -1,0 +1,6 @@
+@article{friedl2026reduced,
+  title={Reduced-order Control and Geometric Structure of Learned Lagrangian Latent Dynamics},
+  author={Friedl, Katharina and Jaquier, No{\'e}mie and Kim, Seungyeon and Lundell, Jens and Kragic, Danica},
+  journal={arXiv preprint arXiv:2602.08963},
+  year={2026}
+}
