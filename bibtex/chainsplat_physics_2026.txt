@@ -1,0 +1,6 @@
+@article{kim2026chainsplat,
+  title={ChainSplat: A Physics-Inspired Screw-Theoretic Model for Learning Deformable Linear Object Dynamics from Multi-View RGB Videos},
+  author={Kim, Seungyeon and Jaquier, No{\'e}mie},
+  journal={arXiv preprint arXiv:2608.28570},
+  year={2026}
+}
